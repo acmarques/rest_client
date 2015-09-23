@@ -1,3 +1,5 @@
+= DEPRECATED: Use rest-client or rest gem instead. 
+
 = REST Client -- simple DSL for accessing HTTP and REST resources
 
 === NOTE: This fork simply gets rid of the mime-types gem dependency, it was causing issues for us.
